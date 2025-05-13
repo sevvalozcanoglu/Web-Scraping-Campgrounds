@@ -33,3 +33,4 @@ python main.py
 ### Example Output
 
 Below is a sample output showing the first 5 campground records retrieved from the database:
+example_output.PNG
