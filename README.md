@@ -5,12 +5,12 @@ This project is a Python-based application that aims to collect campground data 
 ## Project Structure  
 case_study/
 ├── src/
-│   ├── scraper.py
-│   ├── database.py
-│   ├── __init__.py
-│   └── models/
-│       ├── __init__.py
-│       └── campground.py
+│ ├── scraper.py
+│ ├── database.py
+│ ├── init.py
+│ └── models/
+│ ├── init.py
+│ └── campground.py
 ├── main.py
 ├── requirements.txt
 ├── Dockerfile
