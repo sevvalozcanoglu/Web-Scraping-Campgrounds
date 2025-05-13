@@ -3,20 +3,22 @@
 This project is a Python-based application that aims to collect campground data across the United States through web scraping and store it in a database.
 
 ## Project Structure  
+```
 case_study/
 ├── src/
-│ ├── scraper.py
-│ ├── database.py
-│ ├── init.py
-│ └── models/
-│ ├── init.py
-│ └── campground.py
+│   ├── scraper.py
+│   ├── database.py
+│   ├── __init__.py
+│   └── models/
+│       ├── __init__.py
+│       └── campground.py
 ├── main.py
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
 ├── .env
 └── README.md
+```
 
 ## Run Instructions
 Install the required dependencies:
