@@ -1,0 +1,9 @@
+pydantic~=2.10
+requests
+httpx
+selenium
+sqlalchemy
+psycopg2-binary
+Flask
+croniter
+
